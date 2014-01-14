@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="30749__matt-g__m240_data" version="1.3.0" audacityversion="1.3.13-beta" sel0="0.0759365079" sel1="0.0759365079" vpos="64" h="0.0000000000" zoom="263.3779264214" rate="48000.0">
+	<tags>
+		<tag name="YEAR" value="2007-02-09"/>
+		<tag name="Software" value="Sony Sound Forge 8.0"/>
+	</tags>
+	<wavetrack name="30749__matt-g__m240" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1.0" pan="0.0"/>
+</project>
